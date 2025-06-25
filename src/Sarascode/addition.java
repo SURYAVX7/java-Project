@@ -6,6 +6,7 @@ public class addition {
 		// TODO Auto-generated method stub
 		
 		String add = "2+2=4";
+		String add1 = "5+5=10";
 
 	}
 
